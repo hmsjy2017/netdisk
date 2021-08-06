@@ -6,6 +6,7 @@
 | [OneManager-php](https://github.com/qkqpttgf/OneManager-php) | https://pan.iamsjy.com | [Railway](https://railway.app/) |
 | [OneManager-php](https://github.com/qkqpttgf/OneManager-php) | https://pan2.iamsjy.com | [Glitch](https://glitch.com/) |
 | [OneManager-php](https://github.com/qkqpttgf/OneManager-php) | https://fc.iamsjy.com | [Aliyun FC](https://www.aliyun.com/product/fc) |
+| [OneManager-php](https://github.com/qkqpttgf/OneManager-php) | https://myonemanager.vercel.app |[Vercel](https://vercel.com/) |
 | [FODI](https://github.com/vcheckzen/FODI) | https://drive.iamsjy.eu.org | [CF Workers](https://workers.cloudflare.com/) + [GitHub Pages](https://pages.github.com/) |
 | [ShareList](https://github.com/reruin/sharelist) | https://sharelist.up.railway.app | [Railway](https://railway.app/)                              |
 | [OnePoint](https://github.com/ukuq/onepoint) | https://onepoint.iamsjy.workers.dev | [CF Workers](https://workers.cloudflare.com/)                |
