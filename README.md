@@ -7,7 +7,7 @@
 | [OneManager-php](https://github.com/qkqpttgf/OneManager-php) | https://pan2.iamsjy.com | [Glitch](https://glitch.com/) |
 | [OneManager-php](https://github.com/qkqpttgf/OneManager-php) | https://fc.iamsjy.com | [Aliyun FC](https://www.aliyun.com/product/fc) |
 | [OneManager-php](https://github.com/qkqpttgf/OneManager-php) | https://myonemanager.vercel.app 或 https://onelist.tk |[Vercel](https://vercel.com/) |
-[ [OneManager-cfworkerskv](https://github.com/qkqpttgf/OneManager-cfworkerskv) | https://onemanager.iamsjy.workers.dev | [CF Workers](https://workers.cloudflare.com/) |
+| [OneManager-cfworkerskv](https://github.com/qkqpttgf/OneManager-cfworkerskv) | https://onemanager.iamsjy.workers.dev | [CF Workers](https://workers.cloudflare.com/) |
 | [FODI](https://github.com/vcheckzen/FODI) | https://drive.iamsjy.eu.org 或 https://fodi.ml | [CF Workers](https://workers.cloudflare.com/) + [GitHub Pages](https://pages.github.com/) |
 | [ShareList](https://github.com/reruin/sharelist) | https://sharelist.up.railway.app | [Railway](https://railway.app/)                              |
 | [OnePoint](https://github.com/ukuq/onepoint) | https://onepoint.iamsjy.workers.dev | [CF Workers](https://workers.cloudflare.com/)                |
